@@ -21,11 +21,9 @@
 
   2. Define a function to fetch S&P 500 company tickers from Wikipedia:
   def save_sp500_tickers():
-      # Function code here
      
   3. Define a function to generate buy/sell signals for a given stock:
   def get_signals(stock):
-      # Function code here
      
   4. Get the list of S&P 500 stock tickers:
   sp500_tickers = save_sp500_tickers()
